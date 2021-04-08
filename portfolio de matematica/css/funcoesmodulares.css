@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.img {
+    background-color: black;
+    width: 500px;
+    height: 500px;
+}
+
+h1, .title {
+    text-align: center;
+    background: linear-gradient(to right, #7f00ff, #e100ff);
+}
+
+.mid {
+    text-align: center;
+}
+
+.purple {
+    text-align: center;
+    background: linear-gradient(to right, #7f00ff, #e100ff);
+    margin: auto;
+    width: 500px;
+}
+
+#av, .lin {
+    text-align: right;
+}

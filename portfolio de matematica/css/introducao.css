@@ -1,0 +1,21 @@
+body {
+    color: snow;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    background: linear-gradient(to right, #7f00ff, #e100ff);
+}
+
+#av, .lin {
+    text-align: right;
+}
+
+.top {
+    text-align: center;
+}
+
+h3 {
+    text-align: justify;
+}

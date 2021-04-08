@@ -1,0 +1,29 @@
+h1 {
+    font-family: 'Press Start 2P', cursive;
+}
+
+#top {
+    color: white;
+    background: linear-gradient(to right, #7f00ff, #e100ff);
+}
+
+h2 {
+    background: linear-gradient(to right, #7f00ff, #e100ff);
+}
+
+.img {
+    width: 125px;
+    height: 125px;
+
+}
+
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+p {
+    text-align: right;
+}
+
