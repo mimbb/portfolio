@@ -3,3 +3,8 @@ body {
     background-color: black;
     color: white;
 }
+
+h1 {
+    text-align: center;
+    background: linear-gradient(to right, #7f00ff, #e100ff);
+}

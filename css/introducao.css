@@ -1,14 +1,17 @@
 body {
-    color: black;
-    background: linear-gradient(to right, #d9a7c7, #fffcdc);
+    color: snow;
+    background-color: black;
 }
 
 h1 {
     text-align: center;
-    font-family: 'Pacifico', cursive;
+    background: linear-gradient(to right, #7f00ff, #e100ff);
 }
 
-h2 {
+.top {
+    text-align: center;
+}
+
+h3 {
     text-align: justify;
-    background: linear-gradient(to right, #d9a7c7, #fffcdc);
 }

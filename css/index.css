@@ -3,14 +3,13 @@ h1 {
 }
 
 #top {
-    color: black;
-    background: linear-gradient(to right, #f4c4f3, #fc67fa);
+    color: white;
+    background: linear-gradient(to right, #7f00ff, #e100ff);
 }
 
-.pink {
-    background: linear-gradient(to right, #f4c4f3, #fc67fa);
+h2 {
+    background: linear-gradient(to right, #7f00ff, #e100ff);
 }
-
 
 .img {
     width: 125px;
@@ -28,6 +27,3 @@ p {
     text-align: right;
 }
 
-h2 {
-    background: linear-gradient(to right, #000000, #434343);
-}
