@@ -1,6 +1,11 @@
 body {
     color: snow;
     background-color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.y {
+    font-family: 'Grand Hotel', cursive;
 }
 
 h1 {
@@ -8,7 +13,8 @@ h1 {
     background: linear-gradient(to right, #7f00ff, #e100ff);
 }
 
-#av, .lin {
+#av,
+.lin {
     text-align: right;
 }
 

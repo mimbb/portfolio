@@ -5,9 +5,11 @@ h1 {
 #top {
     color: white;
     background: linear-gradient(to right, #7f00ff, #e100ff);
+    font-family: 'Grand Hotel', cursive;
 }
 
 h2 {
+    font-family: 'Grand Hotel', cursive;
     background: linear-gradient(to right, #7f00ff, #e100ff);
 }
 
@@ -21,9 +23,13 @@ body {
     text-align: center;
     background-color: black;
     color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 p {
     text-align: right;
 }
 
+.y {
+    background: linear-gradient(to right, #7f00ff, #e100ff);
+}
